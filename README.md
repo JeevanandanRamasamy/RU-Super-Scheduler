@@ -49,10 +49,6 @@ Suggested improvements:
 - Add CI workflow to run backend tests and frontend lint/build
 - Provide an `.env.example` for both backend and frontend
 
-## License
-
-This project does not include license information in the repository. If you intend to open-source it, add a `LICENSE` file (MIT/Apache-2.0 recommended).
-
 ---
 
 See `backend/README.md` and `frontend/README.md` for per-subsystem setup and developer commands.
